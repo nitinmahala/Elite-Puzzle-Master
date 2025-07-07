@@ -24,9 +24,3 @@ Transform any image into a sliding puzzle game with multiple difficulty levels.
 - Tailwind CSS  
 - Framer Motion  
 
-## 🚧 Installation  
-```bash
-git clone https://github.com/nitinmahala/Elite-Puzzle-Master.git
-cd Elite-Puzzle-Master
-npm install
-npm run dev
